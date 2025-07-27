@@ -1,5 +1,3 @@
-# Elevate-Labs-task-3
-
 # 🛡️ Basic Vulnerability Scan using OpenVAS
 
 This project documents the process and results of a basic vulnerability scan performed on a local machine using **OpenVAS Community Edition**.
